@@ -1,0 +1,32 @@
+.header {
+
+	background: rgb(217, 246, 210);
+	background: linear-gradient(180deg, rgba(217, 246, 210, 1) 90%, rgba(0, 114, 119, 1) 100%);
+	padding: 16px 0 20px;
+
+	.menu {
+		list-style: none;
+		display: flex;
+		width: fit-content;
+		align-items: center;
+		text-transform: uppercase;
+		font-weight: bold;
+
+
+		li {
+			a {
+				padding: 0 10px;
+				text-decoration: none;
+				color: black;
+
+
+			}
+		}
+	}
+
+	.hamburger {
+		color: #000;
+		line-height: normal;
+
+	}
+}

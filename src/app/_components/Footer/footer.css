@@ -1,0 +1,50 @@
+.footer {
+
+	color: white;
+	text-transform: uppercase;
+	letter-spacing: 0.1rem;
+
+  p {
+    font-size: 0.8rem;
+  }
+  .about {
+    background-color: #555;
+    padding-top: 20px;
+  }
+
+  .desc {
+    font-size: 0.8rem;
+
+  }
+
+  .subtitle {
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 0.4rem;
+    font-size: 0.8rem;
+
+  }
+
+  .copyright {
+    background-color: #444;
+    padding: 20px 0;
+
+    .copyright--text {
+      font-size: 0.8rem;
+    }
+
+  
+  }
+
+	.borderTop {
+		border-top: 1px solid #dfdede;
+	}
+
+  a {
+    margin-right: 16px;
+
+   
+  }
+
+
+}
